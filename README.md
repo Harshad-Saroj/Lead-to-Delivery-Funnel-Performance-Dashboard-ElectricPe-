@@ -3,15 +3,15 @@
 This project analyzes the EV sales funnel and store performance for ElectricPe, covering the customer journey from lead → pre-booking → booking → delivery, along with cancellations and customer satisfaction (NPS).
 The goal was to identify bottlenecks, improve conversion, and optimize operations using Excel analytics & dashboarding.
 
-📊 Dashboard Overview
+Dashboard Overview
 
 The Excel dashboard includes:
-✅ Lead-to-Delivery funnel by store
-✅ Stage-wise TAT (turnaround time) performance
-✅ Cancellations by reason & store
-✅ Hot/Warm/Cold lead analysis
-✅ Customer rating distribution & NPS
-✅ Filters & slicers for store and lead type
+1. Lead-to-Delivery funnel by store
+2. Stage-wise TAT (turnaround time) performance
+3. Cancellations by reason & store
+4. Hot/Warm/Cold lead analysis
+5. Customer rating distribution & NPS
+6. Filters & slicers for store and lead type
 
 Built using PivotTables, lookup formulas, calculated KPIs, slicers, conditional formatting, and chart-based visuals.
 
@@ -29,22 +29,22 @@ Built using PivotTables, lookup formulas, calculated KPIs, slicers, conditional 
 
 Key Insights
 
-📌 Majority of lead drop-offs happen before booking — focus on early follow-ups
-📌 Certain stores show higher delivery TAT — operational delays likely post-booking
-📌 Cancellation reasons vary — stock unavailability & customer preference changes dominate
-📌 Warm lead segment holds maximum conversion potential
-📌 Stores with higher NPS show better delivery experience & faster TAT
+1. Majority of lead drop-offs happen before booking — focus on early follow-ups
+2. Certain stores show higher delivery TAT — operational delays likely post-booking
+3. Cancellation reasons vary — stock unavailability & customer preference changes dominate
+4. Warm lead segment holds maximum conversion potential
+5. Stores with higher NPS show better delivery experience & faster TAT
 
 Outcomes
 
-🎯 Identified key customer drop-off points
-🎯 Reduced TAT improvement opportunities highlighted
-🎯 Suggested targeted intervention for Warm leads to boost conversions
-🎯 Insights aligned with EV retail & mobility operations
+1. Identified key customer drop-off points
+2. Reduced TAT improvement opportunities highlighted
+3. Suggested targeted intervention for Warm leads to boost conversions
+4. Insights aligned with EV retail & mobility operations
 
 Future Enhancements
 
-Automate lead quality scoring model
-Add Power BI version for advanced analytics
-Integrate real-time operational data (CRM/ERP)
-Build a follow-up automation workflow
+1. Automate lead quality scoring model
+2. Add Power BI version for advanced analytics
+3. Integrate real-time operational data (CRM/ERP)
+4. Build a follow-up automation workflow
