@@ -15,6 +15,9 @@ The Excel dashboard includes:
 
 Built using PivotTables, lookup formulas, calculated KPIs, slicers, conditional formatting, and chart-based visuals.
 
+![WhatsApp Image 2025-11-01 at 19 08 12](https://github.com/user-attachments/assets/c1b53703-da28-4143-a224-7d71691aa719)
+
+
 ![WhatsApp Image 2025-11-01 at 19 06 08](https://github.com/user-attachments/assets/4d8c3f93-68eb-4ed0-8ff3-3c6ce9cc8576)
 
 ![[WhatsApp Image 2025-11-01 at 19 08 12](https://github.com/user-attachments/assets/58a54f46-0cc6-4062-9f89-a0b4abc80c9d)
