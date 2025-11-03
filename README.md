@@ -1,9 +1,19 @@
 # Lead-to-Delivery-Funnel-Performance-Dashboard-ElectricPe-
 
+This project analyzes the EV sales funnel and store performance for ElectricPe, covering the customer journey from lead → pre-booking → booking → delivery, along with cancellations and customer satisfaction (NPS).
+The goal was to identify bottlenecks, improve conversion, and optimize operations using Excel analytics & dashboarding.
 
+📊 Dashboard Overview
 
+The Excel dashboard includes:
+✅ Lead-to-Delivery funnel by store
+✅ Stage-wise TAT (turnaround time) performance
+✅ Cancellations by reason & store
+✅ Hot/Warm/Cold lead analysis
+✅ Customer rating distribution & NPS
+✅ Filters & slicers for store and lead type
 
-
+Built using PivotTables, lookup formulas, calculated KPIs, slicers, conditional formatting, and chart-based visuals.
 
 ![WhatsApp Image 2025-11-01 at 19 06 08](https://github.com/user-attachments/assets/4d8c3f93-68eb-4ed0-8ff3-3c6ce9cc8576)
 
@@ -16,3 +26,25 @@
 ![WhatsApp Image 2025-11-01 at 19 07 08](https://github.com/user-attachments/assets/d9269113-8157-44dc-90f3-3f96aac8363a)
 
 ![WhatsApp Image 2025-11-01 at 19 07 48](https://github.com/user-attachments/assets/25057e22-583d-4ed6-98fc-b946bd8d72f4)
+
+Key Insights
+
+📌 Majority of lead drop-offs happen before booking — focus on early follow-ups
+📌 Certain stores show higher delivery TAT — operational delays likely post-booking
+📌 Cancellation reasons vary — stock unavailability & customer preference changes dominate
+📌 Warm lead segment holds maximum conversion potential
+📌 Stores with higher NPS show better delivery experience & faster TAT
+
+Outcomes
+
+🎯 Identified key customer drop-off points
+🎯 Reduced TAT improvement opportunities highlighted
+🎯 Suggested targeted intervention for Warm leads to boost conversions
+🎯 Insights aligned with EV retail & mobility operations
+
+Future Enhancements
+
+Automate lead quality scoring model
+Add Power BI version for advanced analytics
+Integrate real-time operational data (CRM/ERP)
+Build a follow-up automation workflow
